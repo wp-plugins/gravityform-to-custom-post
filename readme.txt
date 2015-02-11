@@ -1,6 +1,6 @@
 === GravityForm to Custom Post ===
 
-Contributors: (promz, shashanksahu, mukkiee)
+Contributors: promz, shashanksahu, mukkiee
 
 Tags: gravityform, custom, post, form
 
